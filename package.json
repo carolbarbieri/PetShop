@@ -1,0 +1,21 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Projeto utilizado como base de ensino e treinamento, dos cursos de **Informatica**,\r principalmente de nivel técnico - **IFSP**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolbarbieri/PetShop.git"
+  },
+  "keywords": [],
+  "author": "Carolina Barbieri",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carolbarbieri/PetShop/issues"
+  },
+  "homepage": "https://github.com/carolbarbieri/PetShop#readme"
+}
