@@ -1,9 +1,9 @@
-# Site de Petshop - Adoçao
+# Site de PetShop - Adoção
 
 ## Desenvolvido em TypeScript e Node.JS (versão 24)
 
-Projeto utilizado como base de ensino e treinamento, dos cursos de **Informatica**,
-principalmente de nivel técnico - **IFSP**
+Projeto utilizado como base de ensino e treinamento, dos cursos de **Informática**,  
+principalmente de nível técnico - **IFSP**
 
 ### Instalação
 
@@ -13,4 +13,4 @@ principalmente de nivel técnico - **IFSP**
 
 `npm run dev`
 
-Autor: **Carolina Barbieri**
+Autor: **Denny Paulista Azevedo Filho**
