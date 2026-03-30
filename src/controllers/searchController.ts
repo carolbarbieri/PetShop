@@ -11,7 +11,7 @@ if(!query) {
 }
 
 let list = Pet.getFromName(query)
-res.render('page/pages', {
+res.render('page/page', {
 	menu: createMenuObject(''),
 	list,
 	query
